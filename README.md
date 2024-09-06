@@ -28,9 +28,3 @@ Sinta-se à vontade para contribuir para este projeto! Se você encontrar algum 
 
 **Vamos juntos dominar a Summoner's Rift!**
 
-**Observações:**
-
-* **Personalize:** Adapte o tom e o estilo do README de acordo com a sua personalidade e o público-alvo.
-* **Adicione mais detalhes:** Você pode incluir informações sobre como o projeto foi criado, quais foram os desafios enfrentados, etc.
-* **Use emojis:** Emojis podem deixar o README mais divertido e fácil de ler.
-* **Crie uma imagem personalizada:** Uma imagem personalizada pode deixar o README mais atraente.
